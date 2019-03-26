@@ -1,3 +1,3 @@
 # mountiny
 
-A website of small but immensely passionate software and product design studio. Everything we do is handcrafted and thoroughly thought-out with ❤️ based on inspiration from Czechoslovakian meadows and Scottish highlands fortified strongly by Czech beer and Scottish whisky.
+A website of passionate software engineer, co-working with amazing designer in order to deliver immersive digital experience in the form of either a website or mobile application.
